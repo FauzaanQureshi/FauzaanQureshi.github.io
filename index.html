@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fauzaan Qureshi - Resume </title>
+  </head>
+  <body>
+    <a href='resume.link'>Resume</a>
+  </body>
+</html>
