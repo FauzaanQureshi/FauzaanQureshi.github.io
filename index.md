@@ -4,6 +4,6 @@
 <body>
 </body>
 <script type="text/javascript">
-  document.location = "fauzaanqureshi.github.io/resume.pdf"
+  document.location = "static/pdf/Resume.pdf"
 </script>
 </html>
