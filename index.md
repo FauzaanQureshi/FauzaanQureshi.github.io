@@ -89,6 +89,11 @@
    class="btn"
    style="text-align: center;text-decoration: none; padding: 1.2rem;"
    target="_blank">Notes</a>
+   
+<a href="static/kop/" 
+   class="btn"
+   style="text-align: center;text-decoration: none; padding: 1.2rem;"
+   target="_blank">KOP</a>
 </div>
 </body>
 </html>

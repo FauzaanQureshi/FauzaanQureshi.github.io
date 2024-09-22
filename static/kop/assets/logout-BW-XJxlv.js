@@ -1,0 +1,1 @@
+import{a as r}from"./js.cookie-Cz0CWeBA.js";import{v as t}from"./isUserValid-BdCa-Ar8.js";import{r as e}from"./router-CdQiufPQ.js";const m=async({request:o})=>t(o),a=()=>(r.remove("token"),e("/login")),l=a;export{m as clientLoader,l as default};
